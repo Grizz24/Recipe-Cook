@@ -28,6 +28,3 @@ c.Click the adjust button to adjust the values
 d.Click the show button to show the vales
 e.You can choose which recipes values to adjust
 f.To exit the application click the exit button
-
-
-Github link https://github.com/ST10069317/PROG6221-POE.git
