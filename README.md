@@ -1,7 +1,7 @@
 # Recipe-Cook
 
 ## 🚀 Overview
-Welcome to Recipe Cook, an application that lets you store recipes and keep track of ingredient inventory.
+Welcome to Recipe Cook, a CLI application that lets you store recipes and keep track of ingredient inventory.
 
 ## 🛠 Tech Stack
 - C#
